@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770209885581",
+    "firebase_url": "https://connect-jovem-app-d925c.firebaseio.com",
+    "project_id": "connect-jovem-app-d925c",
+    "storage_bucket": "connect-jovem-app-d925c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770209885581:android:52fb91d5abb394af5d21c4",
+        "android_client_info": {
+          "package_name": "com.example.connect_jovem_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770209885581-nee3epqht2pbfkbm951up71rlcnl01kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connect_jovem_app",
+            "certificate_hash": "4dc2426e65e102e139bec027d30d76bf9b08c96c"
+          }
+        },
+        {
+          "client_id": "770209885581-q3d8qgbi7mohgchckk2h6l7d6q0bj8p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxL3wXLj9kt2V9ktZwv9-WSHfP5cv_kBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770209885581-q3d8qgbi7mohgchckk2h6l7d6q0bj8p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
