@@ -21,6 +21,8 @@ dependencies:
     sdk: flutter
   firebase_core: ^0.4.0+9
   firebase_auth: ^0.14.0+5
+  flutter_signin_button: ^1.0.0
+  flutter_facebook_login: ^3.0.0
   webview_flutter: ^0.3.19+9
 
   # The following adds the Cupertino Icons font to your application.

@@ -1,3 +1,4 @@
+import 'package:connect_jovem_app/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         accentColor: const Color(0xFF64ffda),
         canvasColor: const Color(0xFF303030),
       ),
-      home: new MyHomePage(),
+      home: new LoginPage(), //Set the initial app page
     );
   }
 }
